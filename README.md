@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This Thon Peter</h1>
+<h1 align="center">Hi 👋, This is Thon Peter</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img src="https://cdn-0.securityonline.info/wp-content/uploads/2020/02/string-code.png" height="200" width="600" >
 
