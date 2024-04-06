@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Thon</h1>
-<h3 align="center">A full stack frontend and smart contract developer</h3>
+<h3 align="center">Full stack developer with expertise in blockchain technology and smart contract development, creating innovative decentralized applications.</h3>
 <img src="https://cdn-0.securityonline.info/wp-content/uploads/2020/02/string-code.png" height="200" width="600" >
 
 <h3 align="left">Connect with me:</h3>
